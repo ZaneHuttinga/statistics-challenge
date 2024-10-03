@@ -15,6 +15,8 @@ This folder contains two CSV files containing the raw data used in the Jupyter N
 
 Code and ideas are used from the following sources:
 
+My classmate Yara El-Emam corrected my original attempt to find the last timepoint for each mouse and showed me the right way to do it.
+
 Python list comprehension syntax (used in when finding outliers in the for-loop) comes from the first answer here: https://stackoverflow.com/questions/4587915/return-list-of-items-in-list-greater-than-some-value.
 
 The style syntax for the outliers in the box-and-whisker plot is adapted from the first answer here: https://stackoverflow.com/questions/65648502/how-to-change-outlier-point-symbol-in-python-matplotlib-pyplot.
